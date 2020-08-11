@@ -7,4 +7,4 @@ management:
     health:
       show-details: always
   security:
-    enabled: true
+    enabled: false
